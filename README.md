@@ -14,7 +14,7 @@ git clone https://github.com/ZhouYixun/hdzero-ts-to-mp4.git
 4. After downloading, unzip it and find `ffmpeg.exe` in the `bin` folder and copy it to the `same directory` as `main.go`
 5. Run script
 ```shell
-go run main.go
+./ts2mp4.exe
 ```
 
 6. Your mp4 files are converted in `output` folder now!
